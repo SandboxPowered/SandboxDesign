@@ -24,3 +24,11 @@ with the changes to the proposal.
 
 The pull request should only be used for to discuss the format (vocabulary changes, syntax, ...) while actual design discussion
 should still be in the issue.
+
+## Proposal status
+
+A proposal can have one of the following statuses :
+ - Discussion : the proposal is being actively discussed. This status is not typically seen on proposal documents, but
+ rather on issues and pull requests
+ - Draft : the proposal is being written
+ - Accepted : the proposal has been merged into the master branch
