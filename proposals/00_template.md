@@ -4,7 +4,7 @@
  - Author : Bluexin
  - Contributors :
  - Status : Draft
- - Discussion : SandboxDesign#1
+ - Discussion : [#1](https://github.com/SandboxPowered/SandboxDesign/issues/1)
  - Depends on : none (list of links to discussion issues for proposals this one depends on)
 
 ## Summary
